@@ -34,7 +34,7 @@ function App() {
         <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 shadow-xl">
           <h1 className="text-4xl font-bold text-white mb-2">Prochainement ...</h1>
           <p className="text-blue-100 mb-8">
-            Le site web de YOUSAY Consulting sera bientôt disponible.
+            Bienvenue ! Le site web de YOUSAY Consulting sera bientôt disponible.
           </p>
           
           <form onSubmit={handleSubmit} className="space-y-4">
